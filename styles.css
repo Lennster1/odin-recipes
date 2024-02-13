@@ -1,0 +1,27 @@
+
+
+.header {
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: red;
+    width: 100%;
+    background-color: aqua;
+    text-align: center;
+    margin: auto;
+    padding: 15px;
+}
+
+.links {
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    color: aqua;
+    font-size: 20px;
+}
+
+.img {
+    display: block;
+    width: 69%;
+    height: auto;
+    margin: auto;
+}
